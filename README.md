@@ -3,9 +3,9 @@
 Este repo tem o código da semente de uma análise dos dados coletados pelo [#ME REPRESENTA]
 (https://www.merepresenta.org.br/) em 2016 (**não** é o [Quem me representa?](http://qmrepresenta.com.br)). Nas palavras deles: 
 
-_Em 2016, o #MeRepresenta mapeou candidaturas pró direitos humanos em todo o Brasil. Foram 890 candidatas e candidatos cadastrados em 244 cidades, 24 estados e de todos os partidos se manifestando em relação às pautas de igualdades de gênero, racial e orientação sexual.
+> Em 2016, o #MeRepresenta mapeou candidaturas pró direitos humanos em todo o Brasil. Foram 890 candidatas e candidatos cadastrados em 244 cidades, 24 estados e de todos os partidos se manifestando em relação às pautas de igualdades de gênero, racial e orientação sexual.
 
-Agora, movimentos, coletivos e militantes podem utilizar esses dados para encontrar aliadas e aliados dessas pautas em vários lugares do país. Faça sua pesquisa, descubra aliadas e aliados, veja quem te representa!_
+> Agora, movimentos, coletivos e militantes podem utilizar esses dados para encontrar aliadas e aliados dessas pautas em vários lugares do país. Faça sua pesquisa, descubra aliadas e aliados, veja quem te representa!
 
 Tem mais na [seção de impacto do site do projeto](https://www.merepresenta.org.br/impacto/).
 
